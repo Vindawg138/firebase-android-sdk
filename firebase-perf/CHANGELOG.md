@@ -3,6 +3,7 @@
   to `com.google.firebase:firebase-perf` under the `com.google.firebase.perf` package.
   For details, see the
   [FAQ about this initiative](https://firebase.google.com/docs/android/kotlin-migration)
+* [changed] Make Fireperf generate its own session Id.
 
 * [deprecated] All the APIs from `com.google.firebase:firebase-perf-ktx` have been added to
   `com.google.firebase:firebase-perf` under the `com.google.firebase.perf` package,
